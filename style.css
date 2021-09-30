@@ -4,7 +4,7 @@
     display: flex;
     flex-direction: column;
     text-align: center;
-    background-color: rgb(99, 192, 99);
+    background-color: rgb(60, 204, 161);
     padding: 5%;
     
 
@@ -12,7 +12,6 @@
 
 .heading {
     font-size: xxx-large;
-    background-color: rgb(27, 177, 27);
     margin: 0;
 }
 
@@ -28,7 +27,7 @@ input {
     border-style:
 }
 #check-button {
-    color: white;
+    color: black;
     padding: 0.7rem 1.2rem;
     border-radius: 0.6rem;
     font-size: larger;
@@ -36,7 +35,7 @@ input {
     outline: black;
     margin: 1rem auto;
     display: block;
-    background-color: green;
+    background-color: rgb(136, 226, 199);
     font-weight: bolder;
     
 }
