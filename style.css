@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills&display=swap');
 
 .container {
     display: flex;
@@ -6,6 +6,7 @@
     text-align: center;
     background-color: rgb(60, 204, 161);
     padding: 5%;
+    font-family: 'Stick No Bills', sans-serif;
     
 
 }
@@ -15,7 +16,11 @@
     margin: 0;
 }
 
+.description {
+    font-size: xx-large;
+}
 .input-label {
+    font-size: larger;
     font-weight: bolder;
     color: black;
 }
@@ -30,13 +35,15 @@ input {
     color: black;
     padding: 0.7rem 1.2rem;
     border-radius: 0.6rem;
-    font-size: larger;
+    font-size: x-large;
     cursor: pointer;
     outline: black;
     margin: 1rem auto;
     display: block;
     background-color: rgb(136, 226, 199);
     font-weight: bolder;
+    
+
     
 }
 
@@ -45,6 +52,7 @@ input {
     margin: auto;
     width: 80%;
     border-collapse: collapse;
+    font-size: large;
 }
 
 th, td {
